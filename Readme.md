@@ -1,14 +1,14 @@
-# 📊 Data Analytics Portfolio
+# 📊 End-to-End Data Analytics Projects
 
-Welcome to my **Data Analytics Portfolio**. This repository showcases a collection of **end-to-end data analytics projects** built using industry-standard tools and technologies. Each project follows the complete analytics lifecycle, from data preparation to interactive dashboards and business insights.
+Welcome to my **End-to-End Data Analytics Projects** repository. This repository contains a collection of real-world data analytics projects that demonstrate the complete analytics lifecycle—from raw data to actionable business insights using industry-standard tools and technologies.
 
 ---
 
 ## 🎯 Objectives
 
 - Transform raw data into meaningful insights
-- Perform data cleaning and preprocessing
-- Conduct Exploratory Data Analysis (EDA)
+- Clean and preprocess data for analysis
+- Perform Exploratory Data Analysis (EDA)
 - Analyze data using SQL
 - Build interactive Power BI dashboards
 - Support data-driven decision-making
@@ -48,7 +48,7 @@ Welcome to my **Data Analytics Portfolio**. This repository showcases a collecti
 ## 📂 Repository Structure
 
 ```
-Data-Analytics-Portfolio/
+End-to-End-Data-Analytics-Projects/
 │
 ├── Project-01/
 ├── Project-02/
@@ -69,14 +69,14 @@ Data-Analytics-Portfolio/
 - ✔ Dashboard Development
 - ✔ KPI Analysis
 - ✔ Business Intelligence
-- ✔ Business Insights
+- ✔ Business Reporting
 - ✔ Problem Solving
 
 ---
 
 ## 📌 About This Repository
 
-Each project in this repository demonstrates a complete **end-to-end data analytics workflow** using **Excel, Python, SQL, and Power BI**. The projects are designed to solve real-world business problems through data analysis, visualization, and reporting.
+Each project in this repository follows a complete end-to-end data analytics workflow using **Excel, Python, SQL, and Power BI**. The projects focus on solving real-world business problems through data cleaning, analysis, visualization, and reporting.
 
 ---
 
@@ -90,4 +90,4 @@ Aspiring Data Analyst
 
 ---
 
-⭐ *Thank you for visiting my portfolio! Feel free to explore the projects and connect with me.*
+⭐ **Thank you for visiting this repository. Feel free to explore the projects and follow my data analytics journey!**
