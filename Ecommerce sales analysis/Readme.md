@@ -73,21 +73,7 @@ The objective is to extract meaningful business insights from raw data and demon
 
 ### 📊 Exploratory Data Analysis (Python)
 
-Performed analysis using Matplotlib and Seaborn:
-
-- 📌 Order Status Distribution
-- 📌 Product Category Analysis
-- 📌 Product Price Distribution
-- 📌 Monthly Orders Trend
-- 📌 Top Selling Products
-- 📌 Payment Method Distribution
-- 📌 Rating Distribution
-- 📌 Price vs Rating Analysis
-- 📌 Product Price Box Plot
-- 📌 Correlation Heatmap
-- 📌 Pair Plot
-
----
+Performed analysis using Matplotlib and Seaborn
 
 # 🗄️ SQL Analysis
 
